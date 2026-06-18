@@ -56,7 +56,6 @@ Studente della Laurea Magistrale in Ingegneria Elettronica presso l'Università 
 ---
 
 ## Contatti
-## Contatti
 * **Università:** Università della Calabria (UNICAL) - DIMES
 * **Curriculum Vitae:** [Scarica il mio CV in formato PDF](CV_Luca_Gaetano_Sansalone.pdf)
 * **Email:** [sans.lu@outlook.it](mailto:sans.lu@outlook.it)
