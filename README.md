@@ -31,9 +31,9 @@ Studente della Laurea Magistrale in Ingegneria Elettronica presso l'Università 
 
 | Versione Architetturale | WNS (ns) | Frequenza Max ($f_{max}$) | Slice LUT | Slice FF | Potenza Dinamica (W) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **V1 (Booth + RCA)** | 4.449 | ~180 MHz | 135 | 276 | 0.004[cite: 1] |
+| **V1 (Booth + RCA)** | 4.449 | ~180 MHz | 135 | 276 | 0.004 |
 | **V2 (Hardcoded + CLA + Pblock)** | 4.515 | ~182 MHz | 117 | 256 | 0.003 |
-| **V3 (Hardcoded + CSA Tree)** | 4.718 | ~190 MHz | 144 | 313 | 0.003 |
+| **V3 (Hardcoded + CSA Tree + Pblock)** | 4.718 | ~190 MHz | 144 | 313 | 0.003 |
 
 ---
 
