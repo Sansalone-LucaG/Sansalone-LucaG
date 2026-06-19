@@ -8,7 +8,7 @@ La particolarità di questo progetto sta nell'approccio **Hardware/Software Co-D
 
 ## Come Funziona il Sistema? (In parole semplici)
 
-Il funzionamento si basa su un concetto fisico: all'interno del chip, la velocità di commutazione dei circuiti microscopici varia in base alla temperatura. 
+Il funzionamento si basa su un concetto fisico: all'interno del chip, la velocità di commutazione dei circuiti microscopici varia in base alla temperatura.
 
 1. **Il Termometro (Hardware):** Sfruttando alcune strutture native del chip (le catene di riporto veloce), abbiamo creato un "anello oscillante" (Ring Oscillator) che produce un segnale ad altissima frequenza. Più il chip si scalda, più questa frequenza cambia.
 2. **Il Contatore Super-Leggero (Hardware):** Per misurare questa frequenza senza sprecare spazio sul chip, abbiamo utilizzato un contatore non convenzionale basato su un sistema matematico speciale (RNS - Sistema Numerico dei Residui). Questo contatore conta in parallelo senza rallentamenti, occupando la metà dello spazio di un contatore normale.
