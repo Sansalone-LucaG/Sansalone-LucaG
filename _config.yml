@@ -1,5 +1,5 @@
 # Imposta il tema grafico principale del sito
-theme: jekyll-theme-Minimal
+theme: jekyll-theme-Modernist
 # Architect
 # Cayman
 # Dinky
@@ -7,7 +7,6 @@ theme: jekyll-theme-Minimal
 # Leap-day
 # Merlot
 # Midnight
-# Minima
 # Minimal
 # Modernist
 # Slate
