@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Luca Gaetano Sansalone
 ---
 
