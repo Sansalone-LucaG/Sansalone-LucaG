@@ -17,6 +17,7 @@ Studente della Laurea Magistrale in Ingegneria Elettronica presso l'Università 
 ## Progetti Ingegneristici Principali
 
 ### 1. Filtro Laplaciano 3x3 ad Aritmetica Ottimizzata su FPGA
+
 * **Contesto:** Progetto d'esame per il corso di *Progettazione di Sistemi Digitali* (A.A. 2025/2026).
 * **Descrizione:** Sviluppo e ottimizzazione iterativa di un acceleratore hardware per il filtraggio spaziale e rilevamento dei contorni (Edge Detection) in tempo reale su immagini grayscale.
 
@@ -25,10 +26,12 @@ Studente della Laurea Magistrale in Ingegneria Elettronica presso l'Università 
 ---
 
 ### 2. Sensore Termico On-Chip basato su RO e RNS
+
 * **Contesto:** Progetto di Tesi Triennale in Ingegneria Elettronica.
 * **Descrizione:** Co-design hardware/software di un sensore di temperatura completamente digitale integrato su FPGA, con decodifica dei residui numerici tramite Teorema Cinese del Resto (CRT) sviluppata in firmware C.
 
-🌐 **[🖥️ VAI ALLA PAGINA DEL PROGETTO](./02-Sensore-Termico-RO-RNS/)** 📖 *Contiene i sorgenti VHDL dell'oscillatore, il firmware di decodifica in C e il [Testo Completo della Tesi](./02-Sensore-Termico-RO-RNS/docs/Implementazione%20di%20oscillatori%20ad%20anello%20per%20la%20realizzazione%20di%20sensori%20di%20temperatura%20su%20dispositivi%20FPGA.pdf).*
+🌐 **[🖥️ VAI ALLA PAGINA DEL PROGETTO](./02-Sensore-Termico-RO-RNS/)** 📖 *Contiene i sorgenti VHDL dell'oscillatore, il firmware di decodifica in C e il [Testo Completo della Tesi](./02-Sensore-Termico-RO-RNS/docs/Implementazione_di_oscillatori_ad_anello_per_la_realizzazione_di_sensori_di_temperatura_su_dispositivi_FPGA.pdf).*
+
 ---
 
 ## Contatti
