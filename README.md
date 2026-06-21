@@ -1,7 +1,4 @@
----
-layout: default
-title: Luca Gaetano Sansalone
----
+## Luca Gaetano Sansalone
 
 ## Profilo Professionale
 
