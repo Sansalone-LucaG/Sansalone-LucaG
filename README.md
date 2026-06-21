@@ -1,5 +1,3 @@
-# Portfolio di Ingegneria Hardware/Software Codesign
-
 ## Profilo Professionale
 
 Studente della Laurea Magistrale in Ingegneria Elettronica presso l'Università della Calabria (DIMES), specializzato nell'indirizzo **Hardware/Software Codesign**. Focalizzato sulla progettazione digitale su FPGA, ottimizzazione di architetture di calcolo ed elaborazione di segnali/immagini in tempo reale. Esperienza nel partizionamento HW/SW volto a massimizzare il throughput e minimizzare l'uso di risorse d'area e i consumi energetici su silicio.
