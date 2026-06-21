@@ -1,12 +1,11 @@
 # Imposta il tema grafico principale del sito
-theme: jekyll-theme-Tactile
+theme: jekyll-theme-Time-machine
 # Architect
 # Cayman  *
 # Dinky
 # Leap-day
 # Midnight
 # Slate  *
-# Tactile
 # Time-machine
 
 # Titolo principale gigante nel banner verde e nella scheda del browser
