@@ -1,17 +1,11 @@
-# ==========================================================
-# CONFIGURAZIONE GRAFICA DEL PORTFOLIO
-# ==========================================================
-
 # Imposta il tema grafico principale del sito
 theme: jekyll-theme-cayman
 
-# Titolo che appare nella scheda del browser e nella testata
-title: Luca Gaetano Sansalone | Portfolio
+# Titolo principale gigante nel banner verde e nella scheda del browser
+title: Luca Gaetano Sansalone
 
-# Sottotitolo descrittivo sotto il nome principale
-description: Progetti di Ingegneria Hardware/Software Codesign (FPGA, VHDL, C)
+# Sottotitolo elegante che appare sotto al nome
+description: Portfolio di Ingegneria Hardware/Software Codesign
 
-# Mostra i pulsanti colorati in alto per scaricare i codici in formato .zip
+# Mostra i pulsanti per scaricare i codici
 show_downloads: true
-
-# commento su riga singola: posso aggiungere altre opzioni in futuro
