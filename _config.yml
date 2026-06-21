@@ -1,15 +1,11 @@
 # Imposta il tema grafico principale del sito
-theme: jekyll-theme-Slate
+theme: jekyll-theme-Tactile
 # Architect
-# Cayman
+# Cayman  *
 # Dinky
-# Hacker
 # Leap-day
-# Merlot
 # Midnight
-# Minimal
-# Modernist
-# Slate
+# Slate  *
 # Tactile
 # Time-machine
 
