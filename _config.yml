@@ -1,12 +1,12 @@
 # Imposta il tema grafico principale del sito
-theme: jekyll-theme-Time-machine
+theme: jekyll-theme-Time-Slate
 # Architect
 # Cayman  *
 # Dinky
 # Leap-day
 # Midnight
 # Slate  *
-# Time-machine
+# Time-machine  *
 
 # Titolo principale gigante nel banner verde e nella scheda del browser
 title: Luca Gaetano Sansalone
